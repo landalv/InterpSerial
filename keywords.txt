@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+InterpSerial	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+serial_read	KEYWORD2
+serial_read_plot	KEYWORD2
+wait_read	KEYWORD2
+getPlot	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
