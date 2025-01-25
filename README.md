@@ -1,3 +1,6 @@
+# ⛔️ DEPRECATED #
+
+
 # InterpSerial #
 
 Libreria de Arduino creada para la interpretación de tramas de datos, separados por "," en el puerto Serial de Arduino. Esta libreria aún en desarrollo esta concevida como una forma de facilitar la comunicación por puerto Serial entre arduino y otros dispositivos como ESP8866, ESP32, o Raspberry Pi.
